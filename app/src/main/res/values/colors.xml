@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="default_color">#700BEF</color>
+    <color name="secundary_color">#d5b6fb</color>
+    <color name="hint_color">#A166ED</color>
+    <color name="delete_color">#FF0000</color>
+    <color name="edit_color">#FFDE21</color>
+
+
+</resources>
